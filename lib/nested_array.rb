@@ -37,8 +37,10 @@ def array_literal_matrix
     Nested_array.sort 
 end
 
-def matrix_lookup(matrix, row, column)
+def matrix_lookup(Nested_array, 0, 1)
   # Return the matrix's content at row and column
+Nested_array [0][1]
+pp Nested_array
 end
 
 def matrix_update(matrix, row, column, new_value)
