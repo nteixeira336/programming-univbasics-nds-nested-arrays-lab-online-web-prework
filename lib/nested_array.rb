@@ -21,6 +21,7 @@ def assembled_matrix
   # and the Enfield Tennis Academy as provided by the constants
 Ennet_House = ["Don Gately", "Joelle Van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"]
 Enfiled_Tennis_Academy = ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
+pp assembled_matrix 
 end
 
 def array_literal_matrix
