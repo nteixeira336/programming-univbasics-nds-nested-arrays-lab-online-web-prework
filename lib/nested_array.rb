@@ -43,7 +43,9 @@ Nested_array [0][1]
 pp Nested_array
 end
 
-def matrix_update(matrix, row, column, new_value)
+def matrix_update(Nested_array, 0, 1, Jennifer)
   # Update the matrix location at row and column to have the value of new_value
   # Return the updated matrix
+  Nested_array [0][1]= Jennifer 
+  pp Nested_array 
 end
