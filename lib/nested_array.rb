@@ -24,6 +24,7 @@ Enfiled_Tennis_Academy = ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario In
 New_hash= [Ennet_House, Enfield_Tennis_Academy]
 pp New_hash
 end
+assembled_matrix(New_hash)
 
 
 def array_literal_matrix
